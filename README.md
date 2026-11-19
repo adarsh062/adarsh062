@@ -20,7 +20,6 @@ B.Tech CSE student at IIIT Bhopal (2027) | Full Stack Developer | AI/ML Enthusia
 **Languages**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -40,7 +39,6 @@ B.Tech CSE student at IIIT Bhopal (2027) | Full Stack Developer | AI/ML Enthusia
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=googlegemini&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 **Tools**
@@ -63,27 +61,9 @@ An educational RAG application that retrieves knowledge from clinical books to s
 
 **Tech:** Python, RAG, ChromaDB, SQLite, Gemini API
 
-### 3. NexusAI
-A real-time collaborative AI workspace with authentication and AI integration.
-
-**Tech:** React, TypeScript, Node.js, Socket.IO, MongoDB, Gemini API
-
-### 4. ShortX – URL Shortener
+### 3. ShortX – URL Shortener
 A URL shortening service built with PostgreSQL sharding and Redis caching.
 
 **Tech:** Node.js, PostgreSQL, Redis
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarsh062&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh062&layout=compact&theme=default&hide_border=true)
-
-## LeetCode
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/EAvlrf5Y0M?theme=light&font=baloo&ext=heatmap)](https://leetcode.com/u/EAvlrf5Y0M/)
-
----
-
-*Always learning, building and improving.*
 
