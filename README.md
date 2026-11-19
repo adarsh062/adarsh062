@@ -4,10 +4,7 @@
 B.Tech CSE student at IIIT Bhopal (2027) | Full Stack Developer | AI/ML Enthusiast
 
 - 🎓 Pursuing B.Tech in Computer Science at IIIT Bhopal.
-- 💻 Working as a Full Stack Developer at ARK.
-- 🤖 Exploring Generative AI, LLMs and RAG applications.
-- 🌱 Learning Java, Spring Boot, System Design and Cloud.
-- 🧩 Solved 500+ DSA problems.
+- 🧩 Solved 600+ DSA problems across Leetcode (Knight), Codechef , GFG.
 - 🎯 Looking for Software Engineering Internship opportunities.
 
 ## Connect With Me
